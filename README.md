@@ -8,3 +8,4 @@ Also, everytime a user leaves a message, there is a small chance of winning some
 
 - The Smart Contract will be deployed to the **Rinkeby Testnet Network** so there is no real $ involved yet 😉
  
+![Captura de Pantalla 2021-12-28 a la(s) 16 01 47](https://user-images.githubusercontent.com/31729899/147598547-695369f9-b46b-421d-b4e0-f00f5b0fed9d.png)
