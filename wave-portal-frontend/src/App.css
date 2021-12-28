@@ -24,11 +24,29 @@
   margin-top: 16px;
 }
 
+.messagesContainer{
+  margin-top: 30px;
+}
+
+.messagesHeader {
+  display: flex;
+  justify-content: center;
+}
+
 .waveButton {
   cursor: pointer;
-  margin-top: 16px;
+  margin: 16px 0 16px 0;
   padding: 8px;
   border: 0;
   border-radius: 5px;
   
+}
+
+.spinnerContainer {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 20;
 }
